@@ -25,6 +25,7 @@ function totalScore(team1: number, team2: number): number{
     return team1 + team2;
 }
 
+// Union
 let magic: number | string;
 magic = 25;
 console.log(magic);

@@ -7,6 +7,7 @@ Tutorial based on: [Sergie Code TypeScript Desde Cero Tutorial](https://youtu.be
 ## What was learned and practiced
 
 * Primitive Data
+* Unions
 * Arrays
 * Functions
 * Types
