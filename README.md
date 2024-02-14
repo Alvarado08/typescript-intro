@@ -65,7 +65,7 @@ tsc app.ts -w
 Initialize tsconfig.json:
 
 ```javascript
-tsc -init
+tsc --init
 ```
 
 ### Watch global changes
